@@ -1,0 +1,12 @@
+version: "3"
+services:
+  ssr-proxy:
+    image: igeolise/server-side-render:0.2
+    environment:
+      - initPaths=["/"]
+      - sourceHost=https://mapitout.iamsterdam.com/
+      - rootContainer=#root
+    ports:
+      - "5050:5050"  
+        
+
