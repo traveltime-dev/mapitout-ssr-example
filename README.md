@@ -10,7 +10,8 @@ We have a lot of scala react apps. Because migration to server side rendering so
 
 ## Running
 
-- start: docker-compose up --build
+- run: docker-compose up --build
+- https://mapitout.iamsterdam.com/ with server side rendered content will be visible at http://localhost:5050/
 
 ## Environment variables
 
