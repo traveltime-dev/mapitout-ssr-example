@@ -1,7 +1,6 @@
 # SSR example
 
-It is server side rendering example for scala react apps
-We have a lot of scala react apps. Because migration to server side rendering sometimes can be long and tricky we had written server side rendering proxy. It can convert almost any scala react app to server side rendering.
+It is server side rendering example for scala react apps. Because migration to server side rendering sometimes can be long and tricky we had written server side rendering proxy. It can convert almost any scala react app to server side rendered app.
 
 ## Required tools
 
