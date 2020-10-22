@@ -26,4 +26,4 @@ You must restart proxy when code in source host changed
 
 - igeolise/server-side-render:02 docker image is our internal tool
 - it is tested and we are using in some sites in production with high load with no problems.
-- you can use it free of charge, modify source code, but we are not providing any support and we are not taking any responsibility for this code.
+- you can use it free of charge, modify source code, but we are not providing any support and we are not taking any responsibility for it.
